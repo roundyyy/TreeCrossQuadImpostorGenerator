@@ -87,10 +87,9 @@ Each quad's position can be fine-tuned using the sliders provided in the tool. A
 ### LOD Configuration
 Define the transition height for the LOD system to balance performance and visual fidelity.
 
-## Known Limitations
-
-- **Transparency Artifacts:** Ensure the background color is set to match your scene for clean alpha cutouts.
-- **Large Texture Atlases:** High-resolution textures may impact memory usage.
+## If you want to go deeper
+IF you have many various trees, you can atlas them later easily with my other tool : https://github.com/roundyyy/LODOptimizer
+This way you can static batch them together, even though impostors have different materials.
 
 ## Contributions
 
