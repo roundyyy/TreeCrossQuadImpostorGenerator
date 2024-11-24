@@ -62,6 +62,12 @@ The **ImpostorCross.shader** renders the impostor's cross quads using the genera
 4. Click **Preview Impostor** to visualize the impostor.
 5. Click **Generate Final Impostor** to bake the impostor and save it as a prefab.
 
+**Note on Lighting:** While the tool comes with an optimized unlit shader, you can easily add lighting to your impostors:
+- Use any cutout-capable shader (Standard, URP/Lit, or custom)
+- Simply change the shader on the generated material
+- All the impostor functionality will remain intact
+- Useful when impostors are viewed from closer distances or need to match lit scenes
+
 ## Requirements
 
 - Unity 2020.3 or later
