@@ -5,6 +5,8 @@ The **Tree Cross Quad Impostor Generator** is a Unity Editor tool designed to cr
 
 [![Demo Scene Made With This Tool](http://img.youtube.com/vi/Sw4tQi6weog/0.jpg)](http://www.youtube.com/watch?v=Sw4tQi6weog "Demo Scene Made With This Tool")
 
+*TREES in this demo were created using this generator.*
+
 ## How It Works
 
 1. **Input and Configuration:**
