@@ -69,7 +69,7 @@ The **ImpostorCross.shader** renders the impostor's cross quads using the genera
 
 ## Installation
 
-1. Download the latest release package from the [Releases](https://github.com/roundyyy/TreeCrossQuadImpostorGenerator) page.
+1. Download the latest release package from the [Releases](https://github.com/roundyyy/TreeCrossQuadImpostorGenerator/releases/) page.
 2. Import the package into your Unity project.
 3. The tool will be available under `Tools/Roundy/Tree Cross Quad Impostor Generator`.
 
