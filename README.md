@@ -5,8 +5,6 @@ The **Tree Cross Quad Impostor Generator** is a Unity Editor tool designed to cr
 
 ## Demo
 
-## Demo
-
 [<img src="https://img.youtube.com/vi/Sw4tQi6weog/maxresdefault.jpg" width="600px" alt="Click to Watch Demo Video">](https://youtu.be/Sw4tQi6weog)
 #### 🎥 Click image to watch demo video
 
@@ -31,7 +29,7 @@ The **Tree Cross Quad Impostor Generator** is a Unity Editor tool designed to cr
    - If enabled, the tool sets up an LOD group with the original tree at the highest level and the impostor at the lower level, ensuring smooth transitions.
 
 5. **Output:**
-   - A prefab containing the impostor is generated and saved, including its mesh, material, and texture atlas.
+   - A prefab containing the impostor is generated and saved, including its mesh, material, and texture atlas in proper folders.
 
 ## Features
 
