@@ -3,7 +3,12 @@
 The **Tree Cross Quad Impostor Generator** is a Unity Editor tool designed to create optimized cross-quad impostors for tree or vegetation models. It generates a texture atlas with four snapshots (front, back, left, and right views), maps them onto cross-aligned quads, and optionally integrates an LOD system for enhanced rendering performance.
 ![Screenshot](screenshot.png)
 
-[![Demo Scene Made With This Tool](http://img.youtube.com/vi/Sw4tQi6weog/0.jpg)](http://www.youtube.com/watch?v=Sw4tQi6weog "Demo Scene Made With This Tool")
+## Demo
+
+## Demo
+
+[<img src="https://img.youtube.com/vi/Sw4tQi6weog/maxresdefault.jpg" width="600px" alt="Click to Watch Demo Video">](https://youtu.be/Sw4tQi6weog)
+#### 🎥 Click image to watch demo video
 
 *TREES in this demo were created using this generator.*
 
